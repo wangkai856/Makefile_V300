@@ -7,6 +7,7 @@ int b;
 
 int main(void)
 {
+ printf("now we are in the develp branch\n");
  printf("[%s],max_num:%d\n",__FUNCTION__,MAX_NUM);
  return 0;
 }
