@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include"system.h"
-
+int test;
 //extern int osd_init(void);
 int a;
 int b;
