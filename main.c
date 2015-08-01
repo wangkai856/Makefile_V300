@@ -3,6 +3,8 @@
 
 //extern int osd_init(void);
 int a;
+int b;
+
 int main(void)
 {
  printf("[%s],max_num:%d\n",__FUNCTION__,MAX_NUM);
